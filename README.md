@@ -3,7 +3,7 @@ Dariana ospino hernandez,
 Daniel salas,
 Francisco palencia,
 Jorge camilo cabellos,
-Andres castellar,
+Andres castellar.
  
 
 # Resumen
