@@ -1,4 +1,4 @@
-## Participantes del grupo para el projecto:
+## Participantes del grupo para el proyecto:
 Dariana ospino hernandez,
 Daniel salas,
 Francisco palencia,
